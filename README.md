@@ -1,0 +1,2 @@
+# myFirstRepository
+birinchi loyiha
